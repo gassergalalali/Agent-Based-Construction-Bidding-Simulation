@@ -1,5 +1,4 @@
 # Construction Bidding Simulation
-[Github Link](https://github.com/gasrg/construction_bidding_simulation)
 
 ## What is is this?
 A simulation of contractors bidding
@@ -22,3 +21,5 @@ Plots are created in `./plots/`
 
 ## How does it work
 I'll write that later. I'm still working on this.
+
+<img src="Notes/markup_adjustment_logic.png"/>
